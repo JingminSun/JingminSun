@@ -14,7 +14,7 @@
 - 🔭 <a href="https://github.com/felix-lyx/prose" target="_blank">PROSE-PDE</a>: Towards a Foundation Model for Partial Differential Equations: Multi-Operator Learning and Extrapolation.
   
 ## Interest 👨🏽‍💻
-- NLP : Large Language Model, AI4Science, Operator Learning.
+- NLP, Large Language Model, AI4Science, Operator Learning.
 
 - Language : Python, Pytorch, Matlab and Markdown.
 <picture>
