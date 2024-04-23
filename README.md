@@ -11,7 +11,7 @@
 
 ## Recent Projects 📒
 
-- 🔭 <a href="https://github.com/felix-lyx/prose" target="_blank">PROSE-PDE</a>: Towards a Foundation Model for Partial Differential Equations: Multi-Operator Learning and Extrapolation.
+- 🔭 <a href="https://github.com/JingminSun/prose" target="_blank">PROSE-PDE</a>: Towards a Foundation Model for Partial Differential Equations: Multi-Operator Learning and Extrapolation.
   
 ## Interest 👨🏽‍💻
 - NLP, Large Language Model, AI4Science, Operator Learning.
