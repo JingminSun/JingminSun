@@ -1,4 +1,19 @@
-### Hi there 👋
+
+
+<div align="center">
+  <h3>Hi there 👋, I'm Jingmin Sun (孙婧旻)</h3>
+</div>
+
+## About Me  
+- 🌱 I'm a forth year PhD student in Carnegie Mellon University (CMU) studying mathematical science, working with Professor Hayden Schaeffer.
+
+- 💬 My research direction lies in mathematical machine learning, operator learning, AI4Science, and large language model.
+  
+## Interest 👨🏽‍💻
+- NLP : Large Language Model, AI4Science, Operator Learning.
+
+- Language : Python, Pytorch, Matlab and Markdown.
+]
 
 <!--
 **JingminSun/JingminSun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
