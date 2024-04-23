@@ -5,9 +5,13 @@
 </div>
 
 ## About Me  
-- 🌱 I'm a forth year PhD student in Carnegie Mellon University (CMU) studying mathematical science, working with Professor Hayden Schaeffer.
+- 🌱 I'm a forth year PhD student in Carnegie Mellon University (CMU) studying mathematical science, working with  <a href="https://sites.google.com/view/haydenschaeffer/" target="_blank">Prof. Hayden Schaeffer (UCLA)</a>.
 
 - 💬 My research direction lies in mathematical machine learning, operator learning, AI4Science, and large language model.
+
+## Recent Projects
+
+- 🔭 <a href="https://github.com/felix-lyx/prose" target="_blank">PROSE-PDE</a>: Towards a Foundation Model for Partial Differential Equations: Multi-Operator Learning and Extrapolation.
   
 ## Interest 👨🏽‍💻
 - NLP : Large Language Model, AI4Science, Operator Learning.
