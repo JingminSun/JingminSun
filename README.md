@@ -6,7 +6,7 @@
 </div>
 
 ## About Me 🤓 
-- 🌱 I'm a forth year PhD student in Carnegie Mellon University (CMU) studying mathematical science, working with  <a href="https://sites.google.com/view/haydenschaeffer/" target="_blank">Prof. Hayden Schaeffer (UCLA)</a>.
+- 🌱 I'm a forth year PhD student in Carnegie Mellon University (CMU) studying mathematical science.
 
 - 💬 My research direction lies in mathematical machine learning, operator learning, AI4Science, and large language model.
 
