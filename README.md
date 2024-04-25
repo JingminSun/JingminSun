@@ -1,7 +1,8 @@
 
 
 <div align="center">
-  <h3>Hi there 👋, I'm Jingmin Sun (孙婧旻)</h3>
+<!--   <h3>Hi there 👋, I'm Jingmin Sun (孙婧旻)</h3> -->
+  <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=50&duration=4000&pause=300&color=787062&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1300&height=140&lines=%E2%9C%A9+Hi+there%21+I'm+Jingmin+Sun+%E2%9C%A9" />
 </div>
 
 ## About Me 🤓 
