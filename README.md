@@ -27,7 +27,7 @@
 ## GitHub Stats 📫
 
 <div>
-  <img height="170" align="left" src="https://github-readme-stats-three-nu-80.vercel.app/api?username=JingminSun&show_icons=true&theme=transparent&count_private=true" />
+  <img height="170" align="left" src="https://github-readme-stats-three-nu-80.vercel.app/api?username=JingminSun&show_icons=true&theme=transparent&count_private=true&rank_icon=github&include_all_commits=true" />
   <img height="170" src="https://github-readme-stats-three-nu-80.vercel.app/api/top-langs/?username=JingminSun&hide_langs_below=1&theme=transparent&line_height=27&layout=compact&count_private=true" />
 </div>
 
