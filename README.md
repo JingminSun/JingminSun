@@ -26,8 +26,8 @@
 ## GitHub Stats 📫
 
 <div>
-  <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=JingminSun&show_icons=true&theme=light&count_private=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JingminSun&hide_langs_below=1&theme=default&line_height=27&layout=compact&count_private=true" />
+  <img height="170" align="left" src="https://github-readme-stats-three-nu-80.vercel.app/api?username=JingminSun&show_icons=true&theme=light&count_private=true" />
+  <img src="https://github-readme-stats-three-nu-80.vercel.app/api/top-langs/?username=JingminSun&hide_langs_below=1&theme=default&line_height=27&layout=compact&count_private=true" />
 </div>
 <!--
 **JingminSun/JingminSun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
