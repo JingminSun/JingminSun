@@ -2,7 +2,8 @@
 
 <div align="center">
 <!--   <h3>Hi there 👋, I'm Jingmin Sun (孙婧旻)</h3> -->
-  <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=50&duration=4000&pause=300&color=787062&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1300&height=140&lines=%E2%9C%A9+Hi+there%21+I'm+Jingmin+Sun+%E2%9C%A9" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=50&pause=1000&color=787062&center=true&vCenter=true&repeat=true&random=false&width=1300&height=140&lines=%E2%9C%A9+Hi+there%21+I'm+Jingmin+Sun+%E2%9C%A9;%E5%A4%A7%E5%AE%B6%F0%9F%90%92%E5%91%80+%E8%BF%99%E9%87%8C%E6%98%AF%E5%B0%8F%E5%AD%99%F0%9F%8C%83" />
+
 </div>
 
 ## About Me 🤓 
