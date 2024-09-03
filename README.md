@@ -12,6 +12,7 @@
 - 💬 My research direction lies in mathematical machine learning, operator learning, AI4Science, and large language model.
 
 ## Recent Projects 📒
+- 🔭 <a href="https://github.com/JingminSun/LeMON_PROSE" target="_blank"> LeMON-PROSE</a>:  Learning to Learn Multi-Operator Networks - Predictiong Operators and Symbolic Expressions
 
 - 🔭 <a href="https://github.com/JingminSun/prose" target="_blank">PROSE-PDE</a>: Towards a Foundation Model for Partial Differential Equations: Multi-Operator Learning and Extrapolation.
   
