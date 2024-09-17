@@ -43,5 +43,5 @@
 
 ## Enjoy musics with Me 👂
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=316omdldpvpn3opl3jut4pxkmize&cover_image=false&theme=default&show_offline=false&background_color=121212&interchange=false)]([https://github.com/kittinan/spotify-github-profile](https://open.spotify.com/playlist/2nXNXiPzlVVMyE2H5gyvPA?si=db08fb9baded4915))
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=316omdldpvpn3opl3jut4pxkmize&cover_image=false&theme=default&show_offline=false&background_color=121212&interchange=false)])
 
