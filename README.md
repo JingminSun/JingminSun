@@ -41,3 +41,6 @@
 [![website](./img/linkedin-light.svg)](https://linkedin.com/in/jingmin-sun-529ab816b/#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://linkedin.com/in/jingmin-sun-529ab816b#gh-dark-mode-only)
 
+## Enjoy musics with Me 👂
+
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=316omdldpvpn3opl3jut4pxkmize&cover_image=false&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
