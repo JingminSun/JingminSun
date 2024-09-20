@@ -7,6 +7,8 @@
 </div>
 
 ## About Me 🤓 
+- 👀 I'm looking for a post-doctorial position for mathematical machine learning this year.
+
 - 🌱 I'm a fifth year PhD student in Carnegie Mellon University (CMU) studying mathematical science.
 
 - 💬 My research direction lies in mathematical machine learning, operator learning, AI4Science, and large language model.
