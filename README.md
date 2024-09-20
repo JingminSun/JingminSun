@@ -7,21 +7,23 @@
 </div>
 
 ## About Me 🤓 
-- 👀 I'm looking for a post-doctorial position for mathematical machine learning this year.
+- 👀 I'm looking for a post-doctoral position in mathematical machine learning this year.
 
-- 🌱 I'm a fifth year PhD student in Carnegie Mellon University (CMU) studying mathematical science.
+- 🌱 I'm a fifth-year PhD student at Carnegie Mellon University (CMU) studying mathematical science.
 
-- 💬 My research direction lies in mathematical machine learning, operator learning, AI4Science, and large language model.
+- 💬 My research interests include mathematical machine learning, operator learning, AI4Science, and large language models.
 
 ## Recent Projects 📒
-- 🔭 <a href="https://github.com/JingminSun/LeMON_PROSE" target="_blank"> LeMON-PROSE</a>:  Learning to Learn Multi-Operator Networks - Predictiong Operators and Symbolic Expressions
+- 🔭 <a href="https://github.com/JingminSun/prose_v1" target="_blank">PROSE-SymPy</a>: Time-Series Forecasting, Knowledge Distillation, and Refinement within a Multimodal PDE Foundation Model.
 
-- 🔭 <a href="https://github.com/JingminSun/prose" target="_blank">PROSE-PDE</a>: Towards a Foundation Model for Partial Differential Equations: Multi-Operator Learning and Extrapolation.
+- 🔭 <a href="https://github.com/JingminSun/LeMON_PROSE" target="_blank"> LeMON</a>:  Learning to Learn Multi-Operator Networks.
+
+- 🔭 <a href="https://github.com/JingminSun/prose" target="_blank">PROSE</a>-<a href="https://github.com/JingminSun/prose_v1" target="_blank">PDE</a>: Towards a Foundation Model for Partial Differential Equations: Multi-Operator Learning and Extrapolation.
   
 ## Interest 👨🏽‍💻
 - NLP, Large Language Model, AI4Science, Operator Learning.
 
-- Language : Python, Pytorch, Matlab and Markdown.
+- Language: Python, Pytorch, Matlab and Markdown.
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JingminSun/JingminSun/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JingminSun/JingminSun/output/github-contribution-grid-snake.svg">
