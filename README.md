@@ -7,7 +7,7 @@
 </div>
 
 ## About Me 🤓 
-- 👀 I'm looking for a post-doctoral position in mathematical machine learning this year.
+- 👀 I'm looking for a post-doctoral position in mathematical machine learning starting Summer - Fall 2025.
 
 - 🌱 I'm a fifth-year PhD student at Carnegie Mellon University (CMU) studying mathematical science.
 
