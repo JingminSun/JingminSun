@@ -7,9 +7,9 @@
 </div>
 
 ## About Me 🤓 
-- 👀 I'm looking for a post-doctoral position in mathematical machine learning starting Summer - Fall 2025.
+- 👀 I'll join department of Applied Math and Statistical @ John Hopkins University working with Prof. Mauro Maggioni since July 2025.
 
-- 🌱 I'm a fifth-year PhD student at Carnegie Mellon University (CMU) studying mathematical science.
+- 🌱 I obtained PhD degree of mathematical science from Carnegie Mellon University (CMU), supervising by Prof.Hayden Schaeffer (UCLA).
 
 - 💬 My research interests include mathematical machine learning, operator learning, AI4Science, and large language models.
 
