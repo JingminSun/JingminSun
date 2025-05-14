@@ -7,7 +7,7 @@
 </div>
 
 ## About Me 🤓 
-- 👀 I'll join department of Applied Math and Statistical @ John Hopkins University working with Prof. Mauro Maggioni since July 2025.
+- 👀 I'll join department of Applied Math and Statistical @ John Hopkins University working with Prof. Mauro Maggioni from July 2025.
 
 - 🌱 I obtained PhD degree of mathematical science from Carnegie Mellon University (CMU), supervising by Prof.Hayden Schaeffer (UCLA).
 
