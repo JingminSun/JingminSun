@@ -1,9 +1,9 @@
 name: Waka Readme
 
 on:
+  # run automatically every 24 hours
   schedule:
-    # Runs at 12am IST
-    - cron: '30 18 * * *'
+    - cron: "0 */24 * * *" 
   workflow_dispatch:
 jobs:
   update-readme:
