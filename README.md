@@ -37,6 +37,12 @@
   <img height="170" src="https://github-readme-stats-three-nu-80.vercel.app/api/top-langs/?username=JingminSun&hide_langs_below=1&theme=transparent&line_height=27&layout=compact&count_private=true" />
 </div>
 
+## WAKA TIME ⏰
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+
 ## Contact Me 👯
 
 [![website](./img/globe-light.svg)](https://jingminsun.github.io#gh-light-mode-only)
