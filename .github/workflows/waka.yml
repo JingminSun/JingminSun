@@ -14,3 +14,7 @@ jobs:
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKA_TIME_API }}
           GH_TOKEN: ${{ secrets.CUSTOM_TOKEN }}
+          SHOW_PROJECTS: "False"
+          SHOW_LANGUAGE: "False"
+          SHOW_SHORT_INFO: "FALSE"
+          
