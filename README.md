@@ -37,7 +37,7 @@
   <img height="170" src="https://github-readme-stats-three-nu-80.vercel.app/api/top-langs/?username=JingminSun&hide_langs_below=1&theme=transparent&line_height=27&layout=compact&count_private=true" />
 </div>
 
-## WAKA TIME ⏰
+## WAKA Time ⏰
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
