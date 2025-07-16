@@ -9,7 +9,7 @@
 ## About Me 🤓 
 - 👀 I'm a postdoc-fellow in the department of Applied Math and Statistical @ John Hopkins University working with Prof. Mauro Maggioni.
 
-- 🌱 I obtained PhD degree of mathematical science from Carnegie Mellon University (CMU), supervised by Prof.Hayden Schaeffer (UCLA).
+- 🌱 I obtained PhD degree of mathematical science from Carnegie Mellon University (CMU), supervised by  <a href="https://sites.google.com/view/haydenschaeffer/" target="_blank">Prof.Hayden Schaeffer</a>.
 
 - 💬 My research interests include mathematical machine learning, operator learning, AI4Science, and large language models.
 
