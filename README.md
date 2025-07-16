@@ -9,7 +9,7 @@
 ## About Me 🤓 
 - 👀 I'm a postdoc-fellow in the department of Applied Math and Statistical @ John Hopkins University working with <a href="https://mauromaggioni.duckdns.org/" target="_blank">Prof. Mauro Maggioni</a>.
 
-- 🌱 I obtained PhD degree of mathematical science from Carnegie Mellon University (CMU), supervised by  <a href="https://sites.google.com/view/haydenschaeffer/" target="_blank">Prof. Hayden Schaeffer</a>.
+- 🌱 I obtained my PhD in mathematical science from Carnegie Mellon University (CMU), supervised by  <a href="https://sites.google.com/view/haydenschaeffer/" target="_blank">Prof. Hayden Schaeffer</a>.
 
 - 💬 My research interests include mathematical machine learning, operator learning, AI4Science, and large language models.
 
