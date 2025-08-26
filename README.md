@@ -40,7 +40,7 @@
 ## WAKA Time ⏰
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-119%20hrs%2015%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-119%20hrs%2023%20mins-blue)
 
 **I'm a Night 🦉** 
 
@@ -81,7 +81,7 @@ Linux                    7 hrs 29 mins       ███████████�
 ```
 
 
- Last Updated on 25/08/2025 00:57:58 UTC
+ Last Updated on 26/08/2025 00:56:43 UTC
 <!--END_SECTION:waka-->
 
 
