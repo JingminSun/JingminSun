@@ -40,7 +40,7 @@
 ## WAKA Time ⏰
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-177%20hrs%2042%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-177%20hrs%2047%20mins-blue)
 
 **I'm a Night 🦉** 
 
@@ -85,7 +85,7 @@ Mac                      4 hrs 55 mins       ███████░░░░�
 ```
 
 
- Last Updated on 15/09/2025 00:57:20 UTC
+ Last Updated on 16/09/2025 00:52:50 UTC
 <!--END_SECTION:waka-->
 
 
