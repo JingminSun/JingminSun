@@ -7,7 +7,7 @@
 </div>
 
 ## About Me 🤓 
-- 👀 I'm a postdoc-fellow in the department of Applied Mathematics and Statistics @ John Hopkins University working with <a href="https://mauromaggioni.duckdns.org/" target="_blank">Prof. Mauro Maggioni</a>.
+- 👀 I'm a postdoc-fellow in the department of Applied Mathematics and Statistics @ Johns Hopkins University working with <a href="https://mauromaggioni.duckdns.org/" target="_blank">Prof. Mauro Maggioni</a>.
 
 - 🌱 I obtained my PhD in mathematical science from Carnegie Mellon University (CMU), supervised by  <a href="https://sites.google.com/view/haydenschaeffer/" target="_blank">Prof. Hayden Schaeffer</a>.
 
