@@ -20,7 +20,7 @@
 
 - 🔭 <a href="https://github.com/JingminSun/LeMON_PROSE" target="_blank"> LeMON</a>:  Learning to Learn Multi-Operator Networks.
 
-- 🔭 <a href="https://github.com/JingminSun/prose" target="_blank">PROSE</a>-<a href="https://github.com/JingminSun/prose_v1" target="_blank">PDE</a>: Towards a Foundation Model for Partial Differential Equations: Multi-Operator Learning and Extrapolation.
+- 🔭 <a href="https://github.com/felix-lyx/prose" target="_blank">PROSE</a>-<a href="https://github.com/JingminSun/prose_v1" target="_blank">PDE</a>: Towards a Foundation Model for Partial Differential Equations: Multi-Operator Learning and Extrapolation.
   
 ## Interest 👨🏽‍💻
 - NLP, Large Language Model, AI4Science, Operator Learning.
