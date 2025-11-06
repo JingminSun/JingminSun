@@ -14,6 +14,8 @@
 - 💬 My research interests include mathematical machine learning, operator learning, AI4Science, and large language models.
 
 ## Recent Projects 📒
+- 🔭 <a href="https://github.com/JingminSun/MNO" target="_blank">MNO</a>: A Deep Learning Framework for Multi-Operator Learning: Architectures and Approximation Theory.
+
 - 🔭 <a href="https://github.com/JingminSun/prose_v1" target="_blank">PROSE-SymPy</a>: Time-Series Forecasting, Knowledge Distillation, and Refinement within a Multimodal PDE Foundation Model.
 
 - 🔭 <a href="https://github.com/JingminSun/LeMON_PROSE" target="_blank"> LeMON</a>:  Learning to Learn Multi-Operator Networks.
