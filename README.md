@@ -69,17 +69,18 @@ Sunday                   136 commits         ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   49 mins             ████████████████████████░   96.16 % 
+Git Config               1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   03.84 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  51 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      51 mins             █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 20/03/2026 01:15:53 UTC
+ Last Updated on 21/03/2026 01:11:04 UTC
 <!--END_SECTION:waka-->
 
 
