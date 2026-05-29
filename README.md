@@ -42,46 +42,8 @@
 ## WAKA Time ⏰
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-319%20hrs%205%20mins-blue?style=flat)
 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                79 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.78 % 
-🌆 Daytime                899 commits         ███████████░░░░░░░░░░░░░░   43.01 % 
-🌃 Evening                670 commits         ████████░░░░░░░░░░░░░░░░░   32.06 % 
-🌙 Night                  442 commits         █████░░░░░░░░░░░░░░░░░░░░   21.15 % 
-```
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday                   314 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.02 % 
-Tuesday                  470 commits         ██████░░░░░░░░░░░░░░░░░░░   22.49 % 
-Wednesday                312 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.93 % 
-Thursday                 321 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.36 % 
-Friday                   354 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.94 % 
-Saturday                 173 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.28 % 
-Sunday                   146 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.99 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-Python                   10 mins             █████████████████████████   98.26 % 
-Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.12 % 
-YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 % 
-
-🔥 Editors: 
-VS Code                  11 mins             █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Mac                      11 mins             █████████████████████████   100.00 % 
-```
-
-
- Last Updated on 28/05/2026 02:09:51 UTC
+ Last Updated on 29/05/2026 02:13:39 UTC
 <!--END_SECTION:waka-->
 
 
