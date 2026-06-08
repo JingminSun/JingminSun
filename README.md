@@ -42,6 +42,8 @@
 ## WAKA Time ⏰
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-322%20hrs%2041%20mins-blue?style=flat)
+
 **I'm a Night 🦉** 
 
 ```text
@@ -80,7 +82,7 @@ Mac                      3 hrs 24 mins       ███████████�
 ```
 
 
- Last Updated on 07/06/2026 02:38:46 UTC
+ Last Updated on 08/06/2026 02:43:00 UTC
 <!--END_SECTION:waka-->
 
 
