@@ -69,18 +69,17 @@ Sunday                   146 commits         ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Bash                     44 mins             ███████████████░░░░░░░░░░   59.24 % 
-Python                   30 mins             ██████████░░░░░░░░░░░░░░░   40.76 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  1 hr 15 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      1 hr 15 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 25/06/2026 02:28:29 UTC
+ Last Updated on 26/06/2026 02:30:22 UTC
 <!--END_SECTION:waka-->
 
 
