@@ -42,8 +42,6 @@
 ## WAKA Time ⏰
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-327%20hrs%2030%20mins-blue?style=flat)
-
 **I'm a Night 🦉** 
 
 ```text
@@ -79,7 +77,7 @@ No Activity Tracked This Week
 ```
 
 
- Last Updated on 23/07/2026 01:54:07 UTC
+ Last Updated on 24/07/2026 01:49:54 UTC
 <!--END_SECTION:waka-->
 
 
