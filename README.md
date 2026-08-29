@@ -100,5 +100,5 @@ No AI Coding Activity Tracked This Week
 [![website](./img/linkedin-dark.svg)](https://linkedin.com/in/jingmin-sun-529ab816b#gh-dark-mode-only)
 
 ## Enjoy music with Me 👂
-![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=316omdldpvpn3opl3jut4pxkmize&cover_image=false&theme=default&show_offline=false&background_color=121212&interchange=false)
 
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=316omdldpvpn3opl3jut4pxkmize&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false)](https://github.com/kittinan/spotify-github-profile)
